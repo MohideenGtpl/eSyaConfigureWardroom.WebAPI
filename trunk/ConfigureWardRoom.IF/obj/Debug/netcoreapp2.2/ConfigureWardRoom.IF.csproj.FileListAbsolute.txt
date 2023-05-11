@@ -1,0 +1,24 @@
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.IF.deps.json
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.IF.dll
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.IF.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.AssemblyInfo.cs
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.dll
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.csprojAssemblyReference.cache
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\ConfigureWardRoom.WebAPI\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.IF.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\bin\Debug\netcoreapp2.2\ConfigureWardRoom.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.IF\obj\Debug\netcoreapp2.2\ConfigureWardRoom.IF.pdb

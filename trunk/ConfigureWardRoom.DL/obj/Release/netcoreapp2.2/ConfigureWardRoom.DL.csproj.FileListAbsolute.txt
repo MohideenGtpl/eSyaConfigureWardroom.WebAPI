@@ -1,0 +1,16 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.DL.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.DL.runtimeconfig.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.DL.runtimeconfig.dev.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.DL.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\bin\Release\netcoreapp2.2\ConfigureWardRoom.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\obj\Release\netcoreapp2.2\ConfigureWardRoom.DL.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\obj\Release\netcoreapp2.2\ConfigureWardRoom.DL.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\obj\Release\netcoreapp2.2\ConfigureWardRoom.DL.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\obj\Release\netcoreapp2.2\ConfigureWardRoom.DL.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\obj\Release\netcoreapp2.2\ConfigureWardRoom.DL.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\obj\Release\netcoreapp2.2\ConfigureWardRoom.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaConfigureWardroom.WebAPI\trunk\ConfigureWardRoom.DL\obj\Release\netcoreapp2.2\ConfigureWardRoom.DL.pdb
